@@ -1,0 +1,22 @@
+slogan: >-
+  Wir stehen für eine tolle Politik.
+ziele:
+  - ziel: Wir wollen dies.
+    ideen:
+      - idee: Idee 1
+        level: 1
+        kommentar: >
+          Kommentar zu Idee 1
+      - idee: Idee 2
+        entwurf: true
+        level: 2
+        beispiele:
+          - das hier
+          - jenes
+
+  - ziel: Wir wollen das.
+    ideen:
+      - idee: Idee 3
+        level: 3
+        beispiele:
+          - auch noch das
